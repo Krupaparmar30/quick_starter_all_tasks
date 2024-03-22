@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Screenshot_20240322_213623-portrait](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/f8f3f2af-5562-4624-88cc-d734f6b2d92a)
+<p>
+  <img =src"![Screenshot_20240322_213623-portrait](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/f8f3f2af-5562-4624-88cc-d734f6b2d92a)" width=22% height=35%>
+</p>
