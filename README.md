@@ -1,6 +1,14 @@
 # quick_starter_all_tasks
 <p align="center">
   <img src="![Screenshot_20240322_225035](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/f32a001c-66bd-4ffa-9e04-aa97bb2067ed)"width=22% height=35%>
+  <img src="![Screenshot_20240322_225632](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/2ddfc276-efa4-4f23-9673-81babd5a8a11)"width=22% height=35%>
+  <img src="![Screenshot_20240322_225752](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/0b18ead9-d237-4675-b1a1-60d4832553c3)"width=22% height=35%>
+  <img src="  ![Screenshot_20240322_225949](https://github.com/Krupaparmar30/quick_starter_all_tasks/assets/149374671/25a8ca39-701a-4e80-86b9-31332410f5ac)"width=22% height=35%>
+ 
+
+
+
+
 </p>
 A new Flutter project.
 
